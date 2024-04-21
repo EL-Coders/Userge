@@ -1,5 +1,5 @@
 dnspython==2.2.0
 heroku3==4.2.1
 motor==3.3.2 # 2.5.1
-https://github.com/TelegramPlayGround/pyrogram/archive/19436a9.zip
+pyrotgfork==2.1.22
 TgCrypto==1.2.5
