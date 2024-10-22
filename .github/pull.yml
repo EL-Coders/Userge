@@ -1,12 +1,12 @@
 version: "1"
 rules:
   - base: alpha
-    upstream: UsergeTeam:alpha
+    upstream: EL-Coders:alpha
     mergeMethod: rebase
     mergeUnstable: false
   - base: beta
-    upstream: UsergeTeam:beta
+    upstream: EL-Coders:beta
     mergeMethod: rebase
   - base: master
-    upstream: UsergeTeam:master
+    upstream: EL-Coders:master
     mergeMethod: rebase
